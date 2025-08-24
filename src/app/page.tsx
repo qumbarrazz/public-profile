@@ -18,7 +18,7 @@ export default function Home() {
         </div>
         <div className="flex gap-6 mt-6">
           <a href="https://calendly.com/qumbarraza-qr/30min" target="_blank" rel="noopener" className="px-6 py-2 rounded-full bg-green-400 text-black font-bold shadow-lg hover:bg-green-600 hover:text-white transition text-2xl">Schedule Meeting</a>
-          <a href="/public/QUMBARRAZA-SOFTWAREENGINEER.pdf" download className="px-8 py-3 rounded-full bg-white text-black font-bold shadow-lg hover:bg-green-400 hover:text-white transition text-2xl">Download CV</a>
+          <a href="/public/qumbarresume.pdf" download className="px-8 py-3 rounded-full bg-white text-black font-bold shadow-lg hover:bg-green-400 hover:text-white transition text-2xl">Download CV</a>
         </div>
       </section>
       <section className="w-full max-w-3xl mx-auto px-6 py-16">
